@@ -15,7 +15,9 @@ body {
 
 html {
 zoom: 50%;
+overflow: hidden;
 }
+
 
 .Milo {
   margin-top: 50px;
@@ -50,6 +52,13 @@ zoom: 50%;
   padding-top: 30px;
   padding-bottom: 30px;
 }
+.box {
+  height: 198vh;
+  width 200vw;
+  background-image: linear-gradient(to right, #338cb5, #abdff7, #338cb5); 
+}
+
+
 
 .container {
   height: 100%;
